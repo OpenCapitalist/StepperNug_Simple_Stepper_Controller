@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : THRU_2PIN_TERMINAL.dra                        )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Wed Jun 27 22:58:53 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro
+    Name      = thru_2pin_terminal.psm
+    User      = not you
+    Machine   = NOTYOU-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

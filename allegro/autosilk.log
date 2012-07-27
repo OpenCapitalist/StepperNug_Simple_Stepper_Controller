@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : steppernug ose v1_1.brd                       )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Fri Jul 27 15:00:04 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 100.00
+Min Line Length is 0.00
+Allowing 0 and 90 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string 'R13' is not at a suitable location
+(location: 1448.00, 466.00)
+Text string 'R11' is not at a suitable location
+(location: 1443.00, 356.00)
+Text string 'R9' is not at a suitable location
+(location: 1448.00, 516.00)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 935.00, 45.00)
+Text string 'J9' is not at a suitable location
+(location: 1615.00, 570.00)
+
+Total Failures: 5
+
+Log End
+

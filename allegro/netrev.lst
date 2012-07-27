@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : steppernug ose v1_1.brd                       )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Tue Jun 26 11:43:00 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'c:\users\not you\documents\github\steppernug_simple_stepper_controller\allegro';
+BOARD_DIRECTORY 'C:/Users/not you/Documents/GitHub/StepperNug_Simple_Stepper_Controller/allegro';
+OLD_BOARD_NAME 'C:/Users/not you/Documents/GitHub/StepperNug_Simple_Stepper_Controller/allegro/steppernug ose v1_1.brd';
+NEW_BOARD_NAME 'C:/Users/not you/Documents/GitHub/StepperNug_Simple_Stepper_Controller/allegro/steppernug ose v1_1.brd';
+
+CmdLine: netrev.exe -5 -y 1 -i c:\users\not you\documents\github\steppernug_simple_stepper_controller\allegro C:\Users\not you\Documents\GitHub\StepperNug_Simple_Stepper_Controller\allegro\steppernug ose v1_1.brd C:\Users\not you\Documents\GitHub\StepperNug_Simple_Stepper_Controller\allegro\steppernug ose v1_1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstchip.dat 
+   Finished reading c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstchip.dat (00:00:00.05)
+Starting to read c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstxprt.dat 
+   Finished reading c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstxnet.dat 
+   Finished reading c:/users/not you/documents/github/steppernug_simple_stepper_controller/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.3/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:\USERS\NOT YOU\DOCUMENTS\CADENCEDATA\Parts\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:\Users\not you\Documents\CadenceData\Parts\ 
+           C:\USERS\NOT YOU\DOCUMENTS\CADENCEDATA\Parts\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 26 11:43:00 2012
+   DESIGN NAME : 'STEPPERNUG OSE V1_1'
+   PACKAGING ON Mar 14 2011 20:40:40
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:08
+elapsed time  0:00:01
+

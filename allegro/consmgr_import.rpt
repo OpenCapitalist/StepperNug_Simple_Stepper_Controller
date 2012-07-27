@@ -1,0 +1,47 @@
+Constraint Difference Report
+============================
+
+Design        : steppernug ose v1_1
+Input File    : C:\Users\not you\Documents\CadenceData\Designs\allegro\8milConstraints.dcf
+Baseline File : Current Design
+Update Mode   : Overwrite
+Constraint Information : CrossSection, Electrical, Physical, Spacing, Same Net Spacing, Properties
+Notes:
+------
+  - Attribute updates are reported as additions, deletions, or changes.
+  - Association updates are reported as additions or deletions. Associations
+    are the members of a MatchGroup, Constraint Set references, the PinPairs
+    of a Net, the members of a Differential Pair, etc.
+  - Clearing an object implies that the object does not exist so all attributes
+    and associations for the object will be deleted. These attribute and association
+    deletions are not included in the Summary totals. Objects are Constraint Sets,
+    Buses, XNets, Nets, etc.
+
+
+---------------------------------------------------------
+PhysicalCSet: DEFAULT
+     Changing : MIN_LINE_WIDTH to "8.00,8.00" from "5.00,5.00"
+     Changing : MAX_LINE_WIDTH to "20.00,20.00" from "0.00,0.00"
+     Changing : MIN_NECK_WIDTH to "6.00,6.00" from "5.00,5.00"
+     Changing : MAXIMUM_NECK_LENGTH to "80.00,80.00" from "0.00,0.00"
+---------------------------------------------------------
+SpacingCSet: DEFAULT
+     Changing : LINE_TO_LINE_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_THRUPIN_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_SMDPIN_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_TESTPIN_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_THRUVIA_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : BBV_TO_LINE_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_TESTVIA_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : MVIA_TO_LINE_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : LINE_TO_SHAPE_SPACING to "8.00,8.00" from "5.00,5.00"
+     Changing : BONDPAD_TO_LINE_SPACING to "8.00,8.00" from "5.00,5.00"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 0 additions, 0 deletions, 14 changes.
+
+No association changes done.
+
+

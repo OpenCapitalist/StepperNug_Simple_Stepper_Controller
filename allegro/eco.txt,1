@@ -1,0 +1,70 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  c:.../steppernug_simple_stepper_controller/allegro/steppernug ose v1_1.brd  |
+|                                                    Tue Jun 26 11:32:10 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins MOVED FROM this net (to net name listed on right)
+                                 C3.1                           
+                                                                         N35416
+                                 C4.1                           
+                                                                         N35416
+                                 C8.1                           
+                                                                         N35416
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35416       pins MOVED FROM this net (to net name listed on right)
+                                 C3.2                           
+                                                                              0
+                                 C4.2                           
+                                                                              0
+                                 C8.2                           
+                                                                              0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  c:.../steppernug_simple_stepper_controller/allegro/steppernug ose v1_1.brd  |
+|                                                    Tue Jun 26 11:32:10 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C_ELECT_0_D_CASE_TANT_47U
+ C_ELECT_0_SMD_ELECTRO6_3MM_CAP_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  c:.../steppernug_simple_stepper_controller/allegro/steppernug ose v1_1.brd  |
+|                                                    Tue Jun 26 11:32:10 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3                  C_ELECT_0_SMD_ELECTRO6_3MM_CAP_                 C_ELECT_0_SMD_ELECTRO6_3MM_CAP_
+ C4                  C_ELECT_0_SMD_ELECTRO6_3MM_CAP_                 C_ELECT_0_SMD_ELECTRO6_3MM_CAP_
+ C8                  C_ELECT_0_D_CASE_TANT_47U                 C_ELECT_0_D_CASE_TANT_47U
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  c:.../steppernug_simple_stepper_controller/allegro/steppernug ose v1_1.brd  |
+|                                                    Tue Jun 26 11:32:10 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  14                                             |
+|------------------------------------------------------------------------------|

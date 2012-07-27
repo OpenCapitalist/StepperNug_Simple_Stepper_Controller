@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa04068.tmp                             )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Fri Jul 27 15:11:54 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING: Design precision is greater than that of the drill output file data.
+          Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'C:/Users/not you/Documents/GitHub/StepperNug_Simple_Stepper_Controller/allegro' ...
+
+
+
+     'steppernug ose v1_1-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED         72
+            2.  36.0000    0.0000/  0.0000      PLATED         12
+            3.  51.0000    0.0000/  0.0000      PLATED         12
+            4.  66.0000    0.0000/  0.0000      PLATED          6
+
+     ---- Total holes:                                        102
+
+     ---- Total head travel:              2.54 feet (0.77 meters)
+

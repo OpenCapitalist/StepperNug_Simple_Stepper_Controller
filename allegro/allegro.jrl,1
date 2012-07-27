@@ -1,0 +1,47 @@
+\t (00:00:00) allegro 16.3 S027 (v16-3-85BU) i86
+\t (00:00:00) 
+
+\t (00:00:00) Opening existing drawing...
+\d (00:00:00) Database opened: C:/Users/not you/Documents/GitHub/StepperNug_Simple_Stepper_Controller/allegro/steppernug ose v1_1.brd
+\i (00:00:00) trapsize 1573
+\i (00:00:00) trapsize 1526
+\i (00:00:00) trapsize 1507
+\i (00:00:00) trapsize 1273
+\i (00:00:00) trapsize 1273
+\i (00:00:00) etchedit 
+\i (00:00:27) xhilite 
+\i (00:00:27) xname_flush 
+\i (00:00:27) done 
+\i (00:00:27) etchedit 
+\i (91:57:50) zoom in 
+\i (91:57:50) setwindow pcb
+\i (91:57:50) zoom in 1468.40 394.68
+\i (91:57:50) trapsize 636
+\i (91:57:51) roam y 96 
+\i (91:57:51) roam y 96
+\i (91:57:52) roam y 96 
+\i (91:57:52) roam y 96
+\i (91:57:52) roam y 96 
+\i (91:57:52) roam y 96
+\i (91:57:54) pick grid 1579.14 -14.60
+\t (91:57:54) last pick:  1580.00  -10.00
+\i (91:57:54) slide 
+\t (91:57:55) Waiting for the destination pick.
+\i (91:57:56) prepopup 1579.14 -14.60
+\i (91:57:57) done 
+\i (91:57:57) etchedit 
+\i (91:57:58) prepopup 1581.69 -23.51
+\i (91:58:00) pop dyn_option_select @:@Delete 
+\i (91:58:00) delete 
+\i (91:58:00) etchedit 
+\i (91:58:02) roam y -96 
+\i (91:58:02) roam y -96
+\i (91:58:02) roam y -96 
+\i (91:58:02) roam y -96
+\i (91:58:03) roam y -96 
+\i (91:58:03) roam y -96
+\i (91:58:03) roam y -96 
+\i (91:58:03) roam y -96
+\i (281:39:35) exit 
+\f (281:39:35) Do you want to save the changes you made to steppernug ose v1_1.brd?
+\i (281:39:37) fillin yes 

@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : steppernug ose v1_1.brd                       )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Tue Jun 26 09:34:13 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on side Top
+
+         Placed symbol:  U1 / TB6560AHQ_HZIP_25_SMT_NARROW_PA / HZIP_25_SMT_NARROW_PADS at (4537.00 11597.00)
+         Placed symbol:  J10 / HEADER 12_SIP12_HEADER 12 / SIP12 at (5824.00 12658.00)
+ERROR:   Could not find symbol:  J9 / JUMPER6_0_HEADER6X2_JUMPER6 / HEADER6X2
+         Placed symbol:  C3 / C_ELECT_0_SMD_ELECTRO6_3MM_CAP_ / SMD_ELECTRO6_3MM_CAP at (6012.00 11675.50)
+         Placed symbol:  C4 / C_ELECT_0_SMD_ELECTRO6_3MM_CAP_ / SMD_ELECTRO6_3MM_CAP at (6280.00 11675.50)
+         Placed symbol:  C1 / C_SMD_1206_CAP_4.7U / SMD_1206_CAP at (6515.50 11542.00)
+         Placed symbol:  C2 / C_SMD_1206_CAP_4.7U / SMD_1206_CAP at (6718.50 11542.00)
+         Placed symbol:  C5 / C_SMD_0603_CAP_330PF / SMD_0603_CAP at (6877.00 11529.00)
+         Placed symbol:  C6 / C_SMD_0603_CAP_2.2UF / SMD_0603_CAP at (6991.00 11529.00)
+         Placed symbol:  F1 / FUSE_0_THRU_FUSE_FUSE / THRU_FUSE at (7256.00 11562.00)
+         Placed symbol:  R11 / R_SMD_0603_RES_10K / SMD_0603_RES at (7526.00 11529.00)
+         Placed symbol:  C8 / C_ELECT_0_D_CASE_TANT_47U / D_CASE_TANT at (7773.00 11598.00)
+         Placed symbol:  R17 / R_SMD_0603_RES_10K / SMD_0603_RES at (8020.00 11529.00)
+         Placed symbol:  R16 / R_SMD_0603_RES_10K / SMD_0603_RES at (8144.00 11529.00)
+         Placed symbol:  R1 / R_SMD_2512_RES_0.166 / SMD_2512_RES at (8240.00 11583.00)
+         Placed symbol:  R2 / R_SMD_2512_RES_0.166 / SMD_2512_RES at (8553.00 11583.00)
+         Placed symbol:  R10 / R_SMD_0603_RES_10K / SMD_0603_RES at (8894.00 11529.00)
+         Placed symbol:  R8 / R_SMD_0603_RES_1K / SMD_0603_RES at (9018.00 11529.00)
+         Placed symbol:  R12 / R_SMD_0603_RES_10K / SMD_0603_RES at (9142.00 11529.00)
+         Placed symbol:  R13 / R_SMD_0603_RES_10K / SMD_0603_RES at (9266.00 11529.00)
+         Placed symbol:  R14 / R_SMD_0603_RES_10K / SMD_0603_RES at (9390.00 11529.00)
+         Placed symbol:  R15 / R_SMD_0603_RES_10K / SMD_0603_RES at (9514.00 11529.00)
+         Placed symbol:  R19 / R_SMD_0603_RES_10K / SMD_0603_RES at (9638.00 11529.00)
+         Placed symbol:  R3 / R_SMD_0603_RES_1K / SMD_0603_RES at (9762.00 11529.00)
+         Placed symbol:  R18 / R_SMD_0603_RES_10K / SMD_0603_RES at (9886.00 11529.00)
+         Placed symbol:  R4 / R_SMD_0603_RES_1K / SMD_0603_RES at (10010.00 11529.00)
+         Placed symbol:  R20 / R_SMD_0603_RES_10K / SMD_0603_RES at (10134.00 11529.00)
+         Placed symbol:  R9 / R_SMD_0603_RES_10K / SMD_0603_RES at (4566.00 12762.00)
+         Placed symbol:  R5 / R_SMD_0603_RES_1K / SMD_0603_RES at (4690.00 12762.00)
+         Placed symbol:  R6 / R_SMD_0603_RES_1K / SMD_0603_RES at (4814.00 12762.00)
+         Placed symbol:  R7 / R_SMD_0603_RES_1K / SMD_0603_RES at (4938.00 12762.00)
+         Placed symbol:  J2 / WIREMOUNT_WIRE_HOLE_WIREMOUNT / WIRE_HOLE at (5058.00 12795.00)
+         Placed symbol:  J4 / WIREMOUNT_WIRE_HOLE_WIREMOUNT / WIRE_HOLE at (5174.00 12795.00)
+         Placed symbol:  J3 / WIREMOUNT_WIRE_HOLE_WIREMOUNT / WIRE_HOLE at (5290.00 12795.00)
+         Placed symbol:  J1 / WIREMOUNT_WIRE_HOLE_WIREMOUNT / WIRE_HOLE at (5406.00 12795.00)
+
+
+Placed 34 of 35 applicable (35 total) symbols.
+
+-----------------------------------------------------------------------
+
